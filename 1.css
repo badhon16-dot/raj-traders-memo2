@@ -1,0 +1,11 @@
+raj-traders-memo-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── components/
+│       ├── ui/
+│       │   ├── button.jsx
+│       │   └── card.jsx
+└── package.json

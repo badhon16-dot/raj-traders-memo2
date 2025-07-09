@@ -1,0 +1,2 @@
+git clone https://github.com/your-username/raj-traders-memo-app.git
+cd raj-traders-memo-app
